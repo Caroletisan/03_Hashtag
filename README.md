@@ -1,2 +1,2 @@
 
-Repositório para controle de atividades dos cursos da ALURA.
+Repositório para controle de atividades dos cursos da HASHTAG.
